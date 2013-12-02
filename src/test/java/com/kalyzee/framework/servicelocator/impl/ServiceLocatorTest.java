@@ -1,4 +1,4 @@
-package com.kalyzee.framework.servicelocator;
+package com.kalyzee.framework.servicelocator.impl;
 
 import junit.framework.Assert;
 
